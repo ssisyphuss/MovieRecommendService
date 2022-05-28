@@ -357,7 +357,7 @@ def search(request):
 
 # #  이하는 Data 받아오는 함수
 # URL = 'https://api.themoviedb.org/3'
-# API_KEY = 'ca33ee1ba3a143bb89f377cdff3e719c'
+
 
 # def genre_register(request):
 #     path = '/genre/movie/list'
